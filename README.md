@@ -44,5 +44,12 @@ This is  branch issue53 1th.
 this is brach issue53 2th.
 >>>>>>> is53
 
+HEAD
 ----------------
 this is 2th brach hotfix 1th.  match-----hotfix
+
+--------------------------------
+2th test brach 1th issue53 .
+
+2th test brach 2th issue53.  master--iss53
+iss53
