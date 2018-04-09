@@ -44,4 +44,7 @@ This is  branch issue53 1th.
 this is brach issue53 2th.
 >>>>>>> is53
 
-2th test brach issue53.  master--iss53
+--------------------------------
+2th test brach 1th issue53 .
+
+2th test brach 2th issue53.  master--iss53
