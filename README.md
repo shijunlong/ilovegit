@@ -34,6 +34,12 @@ I love git, I am a Tests User.
  
 I love git, I am from China Anhui bengbu. 
 
+<<<<<<< HEAD
 I test first branch master.
 
 I test first brach  hotfix. [master][hotfix]
+=======
+This is  branch issue53 1th.
+
+this is brach issue53 2th.
+>>>>>>> is53
