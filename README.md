@@ -35,3 +35,5 @@ I love git, I am a Tests User.
 I love git, I am from China Anhui bengbu. 
 
 I test first branch master.
+
+I test first brach  hotfix. [master][hotfix]
